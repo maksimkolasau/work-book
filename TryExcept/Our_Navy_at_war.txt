@@ -1,0 +1,512 @@
+The Project Gutenberg EBook of Our Navy at war, by Josephus Daniels
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this ebook.
+
+Title: Our Navy at war
+
+Author: Josephus Daniels
+
+Release Date: November 01, 2020 [EBook #63596]
+
+Language: English
+
+Character set encoding: UTF-8
+
+Produced by: Carlos Colón, The University of North Carolina at Chapel
+             Hill and the Online Distributed Proofreading Team at
+             https://www.pgdp.net (This file was produced from images
+             generously made available by The Internet Archive/American
+             Libraries.)
+
+*** START OF THE PROJECT GUTENBERG EBOOK OUR NAVY AT WAR ***
+
+
+
+
+  Transcriber's Notes:
+
+  Italic text is denoted by _underscores_ and bold text by
+  =equal signs=.
+
+  Small uppercase have been replaced with regular uppercase.
+
+  Blank pages have been eliminated.
+
+  Variations in spelling and hyphenation have been left as in the
+  original.
+
+
+
+
+[Illustration: From painting in Navy Department by R. S. Meryman]
+
+
+
+
+                            OUR NAVY AT WAR
+
+
+                                  BY
+
+
+                           JOSEPHUS DANIELS
+                         SECRETARY OF THE NAVY
+                             1913 to 1921
+
+
+                            [Illustration]
+
+
+              Illustrated with Reproductions of Original
+                       and Official Photographs
+
+
+                           Pictorial Bureau
+                           Washington, D. C.
+                                 1922
+
+
+
+
+                             COPYRIGHT BY
+                           PICTORIAL BUREAU
+                                 1922
+
+
+
+
+                   _To the Six Hundred Thousand Men_
+
+                 _Who Served in the United States Navy
+                        and Marine Corps in the
+                              World War_
+
+
+_Manning more than two thousand vessels--_
+
+_Operating with Allied Navies from the Arctic to the Adriatic--_
+
+_Transporting troops and supplies across the Atlantic--_
+
+_Protecting ships from attack and destruction--_
+
+_Driving off and defeating the murderous submarines, You made safe the
+seas, and Kept open the Road to France, so that, Of all the vast Army
+sent overseas, Not one soldier on an American troop-ship Lost his life
+on the way to France._
+
+_Fighting with the Army, your comrades, The Soldiers of the Sea, won
+fame in Hard-fought battles that saved Paris, Drove back the German
+hordes, and Won for Humanity Complete and Glorious Victory._
+
+
+_In recognition of your splendid service, your dauntless deeds, this
+work is dedicated by one who was sometime your commander and always
+your shipmate._
+
+
+
+
+CONTENTS
+
+
+  CHAPTER      PAGE
+
+       I. When the War Call Came                        1
+
+      II. "To Be Strong Upon the Seas"                  9
+
+     III. The Break with Germany                       19
+
+      IV. The Day of Decision                          30
+
+       V. Sending Sims to Europe                       36
+
+      VI. Naval Allies in Historic Conference          45
+
+     VII. "We Are Ready Now, Sir"                      53
+
+    VIII. Race Between Wilson and Hindenburg           70
+
+      IX. The Fleet the Kaiser Built for Us            89
+
+       X. Guarding the Coast of France                 99
+
+      XI. Gibraltar and the Convoy                    116
+
+     XII. Shutting up the Hornets in Their Nests      125
+
+    XIII. President Wilson as a Strategist            143
+
+     XIV. Comrades of the Mist                        151
+
+      XV. Cinderellas of the Fleet                    161
+
+     XVI. "Do Not Surrender"--"Never"                 173
+
+    XVII. When the U-Boats Came to America            187
+
+   XVIII. Marines Stopped Drive on Paris              206
+
+     XIX. The Answer to the 75-Mile Gun               218
+
+      XX. The Navy That Flies                         228
+
+     XXI. The Ferry to France                         241
+
+    XXII. Radio Girdled the Globe                     250
+
+   XXIII. A Surprise for Count von Luxburg            259
+
+    XXIV. American Admiral Saved Kolchak              268
+
+     XXV. The Half-Way House                          275
+
+    XXVI. To Victory on a Sea of Oil                  280
+
+   XXVII. Edison--and 100,000 More                    285
+
+  XXVIII. Building a Thousand Ships                   297
+
+    XXIX. Making Sailors out of Landsmen              309
+
+     XXX. Three Hundred Thousand Strong               318
+
+    XXXI. Women in the Navy                           328
+
+   XXXII. Coast Guard Wins Distinction                332
+
+  XXXIII. Winning the First Battle of the War         341
+
+   XXXIV. Fighting the Profiteers                     347
+
+    XXXV. "Sirs, All Is Well with the Fleet"          354
+
+   XXXVI. After the Armistice                         366
+
+
+
+
+ILLUSTRATIONS
+
+
+  Josephus Daniels                                      _Frontispiece_
+
+                                                           FACING PAGE
+
+  War Chiefs of the Navy, the Secretary and his Advisory
+  Council                                                           16
+
+  A Friendly Bout                                                   17
+
+  School Hour Aboard a Battleship                                   17
+
+  President Wilson and the War Cabinet                              32
+
+  American Dreadnoughts, the Embodiment of Sea Power                33
+
+  American Destroyers in Queenstown Harbor                          52
+
+  The Return of the Mayflower                                       53
+
+  The Surrender of the U-58                                         58
+
+  Crew of the Fanning, which sank the U-58                          59
+
+  They, Too, Were Ready                                             67
+
+  The Seattle and Rear Admiral Albert Gleaves                       68
+
+  A Dash through the Danger Zone                                    68
+
+  The Sinking of the President Lincoln                              80
+
+  The Secretary of the Navy with Captain Dismukes and the
+  men who saved the Mount Vernon                                    81
+
+  The Mount Vernon safely in port after being torpedoed             81
+
+  Brest, Center of the Great System of Naval Operations in
+  France                                                           112
+
+  A German "Sub" and Some of its Enemies                           113
+
+  At Gibraltar, Key to the Mediterranean                           124
+
+  The Great Mine Barrage against the Submarines                    125
+
+  Planting Mines in the North Sea                                  128
+
+  How the Big Mines in the North Sea Barrage Worked                129
+
+  One of the Perils of Mine-Sweeping                               136
+
+  The Mine-Sweepers Proved Wonderful Sea Boats                     136
+
+  United States Naval Officers in Important Commands               137
+
+  American and British Naval Officials                             137
+
+  The Transport which carried President Wilson to the Peace
+  Conference                                                       144
+
+  Allied Naval Council in Session at Paris                         145
+
+  Fifth Battle Squadron Joining the British Grand Fleet            160
+
+  Surrender of the German High Seas Fleet                          161
+
+  American Sub-chasers at Corfu, Greece                            168
+
+  A Flock of Sub-chasers with their Mother-ship                    169
+
+  Gun-crew of the Luckenbach has a Four-Hour Fight with a
+  Submarine                                                        192
+
+  Chief Gunner's Mate Delaney, of the Campana, Defying his
+  Captors                                                          192
+
+  The Merchant Submarine Deutschland                               193
+
+  Leaders of the Marines                                           208
+
+  The Marines in Belleau Wood                                      209
+
+  Naval Railway Battery Firing from Thierville upon Longuyon       224
+
+  On the Turret Platform of a Battleship                           225
+
+  Assembling Naval Airplanes at Brest                              228
+
+  A Navy Blimp Leaving Hangar at Guipavas, France                  229
+
+  Naval Aviation Hangars at Guipavas                               229
+
+  Pauillac, Naval Aviation Station                                 240
+
+  Fliers whose Exploits Brought Prestige to Naval Aviation         241
+
+  The Station Whose Messages are Heard around the World            256
+
+  The Tablet on the Main Building of the Lafayette Radio
+  Station                                                          257
+
+  Eagle Boats at Anchor in the Ice of the White Sea                274
+
+  The Half-Way House                                               275
+
+  The Naval Consulting Board and the Navy Department Chiefs        288
+
+  Secretary Daniels and Thomas A. Edison                           289
+
+  Fitting Out for Distant Service                                  304
+
+  Hanging up a Record                                              305
+
+  The Living Flag                                                  320
+
+  United States Naval Academy at Annapolis                         321
+
+  Yeomen (F) in Liberty Loan Parade, New York City                 328
+
+  Cyclops, the Collier which Disappeared without Leaving a
+  Trace                                                            329
+
+  Lost with Every Man on Board (Coast Guard Cutter Tampa)          336
+
+  They Saved Survivors of Torpedoed Vessels                        337
+
+  Gallant Officers of the Coast Guard                              337
+
+  A General View of Bantry Bay                                     352
+
+  A Close-up View of American "Subs" at Berehaven                  352
+
+  Rodman and Beatty                                                353
+
+  From Manila to the Adriatic                                      368
+
+  Scorpion, only American Naval Vessel Interned during the
+  War                                                              369
+
+
+
+
+Our Navy at War
+
+
+
+
+CHAPTER I
+
+WHEN THE WAR CALL CAME
+
+  NEWS FLASHED TO SHIPS AND STATIONS FIVE MINUTES AFTER PRESIDENT
+  SIGNED DECLARATION--ENTIRE NAVY MOBILIZED AT ONCE--FLEET, ON WAR
+  BASIS SINCE BREAK WITH GERMANY, WAS AT YORKTOWN--"IN BEST STATE OF
+  PREPAREDNESS IT HAD EVER BEEN," ADMIRAL MAYO SAID--OFFICERS AND MEN
+  EAGER FOR ACTION.
+
+
+Five minutes after President Wilson signed the war resolution passed by
+Congress April 6, 1917, the Navy's radio operators were flashing this
+message to every ship and station:
+
+  Sixteen Alnav. The President has signed act of Congress which
+  declares a state of war exists between the United States and
+  Germany. Acknowledge. 131106.
+
+                                                       SECNAV.
+
+That dispatch had been prepared hours before. Radio and telegraph
+operators were at their keys waiting for the word to "let it go."
+Lieutenant Commander Byron McCandless, my naval aide, was waiting in
+the executive office at the White House. Lieutenant Commander Royal
+Ingersoll was stationed at the Navy Department, across the street,
+watching for the signal. The moment the President appended his
+signature, McCandless rushed out and wigwagged that the resolution had
+been signed. Ingersoll dashed down the corridor to the Communication
+office, and ordered the operators to start the "alnav" (all navy)
+dispatch.
+
+Flashed from the towers at Arlington, in a few minutes it was received
+by the Atlantic and Pacific fleets, by vessels and stations all along
+the coast. By radio, telegraph and cable, the message was carried to
+Panama, across the Pacific to Honolulu, the Philippines, to the vessels
+on the Asiatic station. By the time the newspaper "extras" were on the
+street, the naval forces had received notice that we were at war.
+
+The fleet was mobilized that afternoon by the following telegram to the
+five flagships:
+
+  _U. S. S. Pennsylvania_
+  _U. S. S. Minnesota_
+  _U. S. S. Seattle_
+  _U. S. S. Columbia_
+  _U. S. S. Vestal_
+
+  Flag Sigcode. Mobilize for war in accordance Department's
+  confidential mobilization plan of March 21. Particular attention
+  invited paragraphs six and eight. Acknowledge.
+
+                                             JOSEPHUS DANIELS.
+
+  [Paragraph 6 assigned the rendezvous of the various forces, and
+  paragraph 8 contained instructions with regard to vessels fitting
+  out at navy yards.]
+
+When this message was received by the Atlantic Fleet, at 1:33 p. m.,
+Admiral Henry T. Mayo, Commander-in-Chief, hoisted on his flagship, the
+_Pennsylvania_, the signal, "War has commenced." At 5:50 o'clock he
+received the mobilization order, for which officers and vessels were so
+well prepared that Admiral Mayo said he did not have to "give a single
+order of any kind or description to pass the Fleet from a peace to a
+war basis." The entire Navy--Department, Fleet, yards and stations--was
+on a war footing within a few hours after war was declared. Complete
+instructions and plans, brought up to date, had been issued two weeks
+previous, and mobilization was completed without an hour's delay.
+
+The Fleet was at its secret rendezvous "Base 2," to which it had sailed
+from Hampton Roads on April 3, the day after President Wilson delivered
+his war message to Congress. "Base 2" was Yorktown, Va., one of the
+most historic spots in America, and our battleships were in sight of
+the place where Cornwallis surrendered to George Washington. They rode
+at anchor in the waters where the timely arrival of De Grasse's ships
+assured the success of the war for American independence.
+
+In those waters, first made historic in naval annals by the presence
+of the French ships sent to aid the struggling colonists in the
+crucial days of 1781, the American Navy was making ready to repay that
+invaluable assistance--to send its vessels to the beleaguered French
+coast, both to safeguard the vast army America would send to France and
+to drive back the onrushing enemies that threatened its life. In 1917
+the York and the Chesapeake were again the rendezvous of fighting men
+of the same mettle as those of 1781, who were to strengthen by united
+service and common sacrifice in the World War the bonds of friendship
+between France and America that had been forged more than a century
+before.
+
+And those who fought each other then were comrades now. "Old wars
+forgot," Great Britain and France for years had held the lines, and
+America was taking its place beside them, throwing all its power and
+strength with them against the common foe. From Yorktown went the
+first United States forces, ordered overseas just after war began.
+Sent to England's aid, to serve with the British forces, their
+arrival was hailed as the beginning of a new era in the relations
+of the nations--the "Return of the Mayflower." And later went huge
+dreadnaughts to the North Sea, joining the Grand Fleet in the mightiest
+aggregation of naval power the world has ever seen.
+
+That is a wonderful harbor, there in the York River, with water deep
+enough for the largest battleship, and broad enough to accommodate a
+whole fleet. With defenses at the entrance to Chesapeake Bay, and nets,
+mines and patrol across York River, no submarine could ever hope to
+penetrate to this safe haven.
+
+"When the active fleet arrived in Hampton Roads about the 1st of April,
+after its training period in Cuban waters, it was in the best state of
+preparedness that it had ever been," said Admiral Mayo, "and there was
+a feeling of confidence in the personnel of being able to cope with any
+emergency."
+
+"At the end of March, 1917, when we were on the verge of entry into
+the war," said Rear Admiral Charles P. Plunkett, Director of Gunnery
+Exercises, "the gunnery was in the highest state of efficiency that it
+has been in the history of the American Navy."
+
+When the break with Germany came the fleet was in Cuban waters, engaged
+in target practice, engineering exercises, and battle maneuvers. This
+intensive training had been going on under regular schedule for more
+than two years. Every man in the fleet, from the Commander-in-Chief to
+the youngest recruit, felt in his bones that the maneuvers that spring
+were a real preparation for war. Eager to get a chance at the Germans,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

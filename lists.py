@@ -37,7 +37,7 @@ print(motorcycles)
 
 print('\n')
 
-# pop() ydalyaet posledni element iz spiska!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# pop() ydalyaet posledni element iz spiska!!!
 popped_moto = motorcycles.pop()
 print(motorcycles)
 print(popped_moto)
